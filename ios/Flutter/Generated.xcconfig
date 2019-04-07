@@ -1,7 +1,7 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/Users/dduckmanton/Documents/flutter/flutter
-FLUTTER_APPLICATION_PATH=/Users/dduckmanton/Documents/flutter-examples/flutter_widgets
-FLUTTER_TARGET=/Users/dduckmanton/Documents/flutter-examples/flutter_widgets/lib/main.dart
+FLUTTER_APPLICATION_PATH=/Users/dduckmanton/Documents/flutter-examples/flutter-widgets-part1
+FLUTTER_TARGET=/Users/dduckmanton/Documents/flutter-examples/flutter-widgets-part1/lib/main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios
 FLUTTER_FRAMEWORK_DIR=/Users/dduckmanton/Documents/flutter/flutter/bin/cache/artifacts/engine/ios
