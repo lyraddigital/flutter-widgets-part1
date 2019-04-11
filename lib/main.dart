@@ -11,6 +11,7 @@ import 'widgets/app-bar.dart';
 import 'widgets/buttons/raised-button.dart';
 import 'widgets/buttons/flat-button.dart';
 import 'widgets/buttons/dropdown-button.dart';
+import 'widgets/scrollable/list-view.dart';
 
 void main() => runApp(MyApp());
 
@@ -19,7 +20,12 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Widget Tests',
-      home: AppBarTestWidget(),
+      home: Scaffold(
+        appBar: AppBar(
+          title: Text('Messing with Widgets'),
+        ),
+        body: ListViewTestWidget(),
+      ),
     );
   }
 }
